@@ -1,13 +1,13 @@
 # 🎮 Cookie Cats A/B测试分析
 
-> 基于Kaggle公开数据集，对手游Cookie Cats的关卡门槛A/B测试进行完整的统计推断分析，涵盖数据清洗、假设检验、效应量计算与业务决策建议。
+>对Mobile-game的关卡门槛A/B测试进行完整的统计推断分析，涵盖数据清洗、假设检验、效应量计算与业务决策建议。
 
 ---
 
 ## 📁 项目结构
 
 ```
-cookie-cats-ab-test/
+ab-test/
 ├── README.md                  # 项目说明
 └── notebook/
     └── ABtest.ipynb            # 完整分析代码
