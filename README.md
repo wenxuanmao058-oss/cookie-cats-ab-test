@@ -1,4 +1,4 @@
-# 🎮 Cookie Cats A/B测试分析
+# 🎮 Mobile-Game-AB-Testing-Pipeline
 
 >对Mobile-game的关卡门槛A/B测试进行完整的统计推断分析，涵盖数据清洗、假设检验、效应量计算与业务决策建议。
 
